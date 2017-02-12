@@ -1,3 +1,4 @@
+![Image](https://shadowcz007.github.com/logo.png)
 ## Welcome to Spyfari | 斯派来
 ### 明信片创作工具
 
