@@ -13,6 +13,10 @@ Spyfari 有点类似于“明信片”，当你到达某地的时候，你可能
 如果用Spyfari,你可以毫不费劲的，基于地理位置创作一张，
 有范的“明信片”出来。
 
+### 「 价值所在 」
+重焕地点的魅力，重新发现文字的美。
+
+### 「 操作指引 」
 ![Image](https://shadowcz007.github.io/Spyfari/tip1.png)
 ![Image](https://shadowcz007.github.io/Spyfari/tip2.png)
 ![Image](https://shadowcz007.github.io/Spyfari/tip3.png)
@@ -20,8 +24,5 @@ Spyfari 有点类似于“明信片”，当你到达某地的时候，你可能
 ![Image](https://shadowcz007.github.io/Spyfari/tip5.png)
 ![Image](https://shadowcz007.github.io/Spyfari/tip6.png)
 ![Image](https://shadowcz007.github.io/Spyfari/tip7.png)
-
-### 「 价值所在 」
-重焕地点的魅力，重新发现文字的美。
 
 ### 「 Story＋Safari 」＝？
