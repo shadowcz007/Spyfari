@@ -16,7 +16,7 @@ Spyfari 有点类似于“明信片”，当你到达某地的时候，你可能
 ### 「 价值所在 」
 重焕地点的魅力，重新发现文字的美。
 
-### 「 操作指引 」
+### 「 页面简介 」
 ![Image](https://shadowcz007.github.io/Spyfari/tip1.png)
 ![Image](https://shadowcz007.github.io/Spyfari/tip2.png)
 ![Image](https://shadowcz007.github.io/Spyfari/tip3.png)
