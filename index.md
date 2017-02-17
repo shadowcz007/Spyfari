@@ -38,7 +38,11 @@ Spyfari 有点类似于“明信片”，当你到达某地的时候，你可能
 
 ***
 
-### 「 页面简介 」
+### 「 App预览 」
+
+[App视频](https://shadowcz007.github.io/Spyfari/tip1.png)
+
+### 「 App预览 」
 ![Image](https://shadowcz007.github.io/Spyfari/tip1.png)
 ![Image](https://shadowcz007.github.io/Spyfari/tip2.png)
 ![Image](https://shadowcz007.github.io/Spyfari/tip3.png)
