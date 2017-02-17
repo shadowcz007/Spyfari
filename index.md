@@ -48,3 +48,8 @@ Spyfari 有点类似于“明信片”，当你到达某地的时候，你可能
 ![Image](https://shadowcz007.github.io/Spyfari/tip7.png)
 
 ### 「 Story＋Safari 」＝？
+
+### 「 意见反馈 」
+ ### Email:spyfari@163.com 
+ ### 微信公众号:Free_Garden 
+ ### 新浪微博:自在园O设计Mix科技实验室
