@@ -58,6 +58,9 @@ Spyfari 有点类似于“明信片”，当你到达某地的时候，你可能
 
 ### 「 Story＋Safari 」＝？
 
+长按二维码，下载APP
+![Image](https://shadowcz007.github.io/Spyfari/spyfari applestore.png)
+
 ### 「 意见反馈 」
 
 ### Email:spyfari@163.com 
