@@ -59,7 +59,7 @@ Spyfari 有点类似于“明信片”，当你到达某地的时候，你可能
 ### 「 Story＋Safari 」＝？
 
 
-[IOS下载](1202797133)
+[IOS下载](https://itunes.apple.com/app/id1202797133)
 
 ### 「 意见反馈 」
 
